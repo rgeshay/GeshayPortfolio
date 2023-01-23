@@ -24,7 +24,7 @@ I'm taking Telling Stories with Data to further refine my visual skills and tail
 I'm also just quite a visual learner, so I know what does and doesn't work for me personally. My love of art informas my expertise when evaluating visual content, but now I want to apply my skills towards data visuals creation while also finding and fixing what I'm not good at! We'll see how this goes :)
 
 # Portfolio
-My sweet sweet work will go in the following section. Enjoy B)
+My sweet sweet work will go in the following section. Bon appétit.
 # Assignment 1
 
 # Assignment 2
