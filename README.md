@@ -35,7 +35,7 @@ This visualization displays the Debt to GDP ratio for many different countries. 
 <iframe src='https://flo.uri.sh/visualisation/12587454/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12587454/?utm_source=embed&utm_campaign=visualisation/12587454' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 # North America Debt-to-GDP Trends Largely Over Global Average
-Zooming in on North America specifically, we can see data spikes between all three countries. The richest countries (USA and CAN) lie far above the global average.
+Zooming in on North America specifically, data spikes occur due to the 2020 Covid-19 pandemic in all three countries. The richest countries (USA and CAN) lie far above the global average, but all three show decreasing debt in the "post-pandemic" world.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12595625"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
