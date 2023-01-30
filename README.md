@@ -30,6 +30,7 @@ My sweet sweet work will go in the following section. Bon appétit.
 # <iframe src="https://data.oecd.org/chart/6XZN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XZN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 \
 # <div class="flourish-embed flourish-chart" data-src="visualisation/12587454"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+\
 This visualization displays the Debt to GDP ratio for many different countries. Using available data from 1995 to 2021, looking at these charts side by side allow for macro-level trend comparisons.
 
 # Assignment 2
