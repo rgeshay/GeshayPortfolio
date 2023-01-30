@@ -1,6 +1,6 @@
 # Assignment 1
-/
-# Debt-to-GDP Ratio is Increasing Worldwide
+
+# The Debt-to-GDP Ratio is Increasing Worldwide
 <iframe src="https://data.oecd.org/chart/6XZN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XZN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 # Debt-to-GDP Trends (1995-2021)
