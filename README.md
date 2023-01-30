@@ -26,7 +26,7 @@ I'm also just quite a visual learner, so I know what does and doesn't work for m
 # Portfolio
 My sweet sweet work will go in the following section. Bon appétit.
 
-# [Click here](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) to access Assignment 1
+# [Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
 
 # Assignment 2
 
