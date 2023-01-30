@@ -25,7 +25,8 @@ I'm also just quite a visual learner, so I know what does and doesn't work for m
 
 # Portfolio
 My sweet sweet work will go in the following section. Bon appétit.
-# Assignment 1 <iframe src="https://data.oecd.org/chart/6XZN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XZN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+# Assignment 1
+iframe src="https://data.oecd.org/chart/6XZN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XZN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe
 
 # Assignment 2
 
