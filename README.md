@@ -34,6 +34,10 @@ My sweet sweet work will go in the following section. Bon appétit.
 \
 This visualization displays the Debt to GDP ratio for many different countries. Using available data from 1995 to 2021, looking at these charts side by side allow for macro-level trend comparisons.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12595625"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+In North America specifically, we can see data spikes between all three countries. The richest countries (USA and CAN) lie far above the global average.
+
 # Assignment 2
 
 # Final Project (Maybe About Podcast Consumption)
