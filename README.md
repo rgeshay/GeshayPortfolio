@@ -34,6 +34,6 @@ My sweet sweet work will go in the following section. Bon appétit.
 # Assignments
 [Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
 \
-Assignments 3&4: Critique By Design
+[Assignments 3&4: Critique By Design] (https://rgeshay.github.io/GeshayPortfolio/assignment3&4.html)
 
 # Final Project (Maybe About Podcast Consumption)
