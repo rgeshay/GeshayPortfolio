@@ -26,8 +26,12 @@ I'm also just quite a visual learner, so I know what does and doesn't work for m
 # Portfolio
 My sweet sweet work will go in the following section. Bon appétit.
 
-# [Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
+# In-Class Activities
+[American Trust in News Outlets](https://rgeshay.github.io/GeshayPortfolio/week3exercise.html)
+[King County Demo](https://rgeshay.github.io/GeshayPortfolio/kingcountydemo.html)
 
-# Assignments 3&4: Critique By Design
+# Assignments
+[Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
+Assignments 3&4: Critique By Design
 
 # Final Project (Maybe About Podcast Consumption)
