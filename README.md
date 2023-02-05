@@ -28,6 +28,6 @@ My sweet sweet work will go in the following section. Bon appétit.
 
 # [Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
 
-# Assignment 2
+# Assignments 3&4: Critique By Design
 
 # Final Project (Maybe About Podcast Consumption)
