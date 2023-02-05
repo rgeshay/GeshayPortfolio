@@ -28,10 +28,12 @@ My sweet sweet work will go in the following section. Bon appétit.
 
 # In-Class Activities
 [American Trust in News Outlets](https://rgeshay.github.io/GeshayPortfolio/week3exercise.html)
+\
 [King County Demo](https://rgeshay.github.io/GeshayPortfolio/kingcountydemo.html)
 
 # Assignments
 [Assignment 1](https://rgeshay.github.io/GeshayPortfolio/assignment1.html) is up and running
+\
 Assignments 3&4: Critique By Design
 
 # Final Project (Maybe About Podcast Consumption)
