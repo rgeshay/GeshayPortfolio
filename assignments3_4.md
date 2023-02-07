@@ -207,9 +207,14 @@ For my next peer level review, I was much more excited to showcase my data visua
   <br>
   <br>
   </p>
-After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I plan to remove that while also making the title more specific/informative. I also wanted to edit the X-axis to reflect what the percentages are refering to, so I updated it to "Percent of Respondents". I edited the spacing a bit, made sure that my labels were visible enough and the text colors were matching. After all of this, my final product is below.
+
+## Step 5D: Build Last Solution
+<p>
+After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I plan to remove that while also making the title more specific/informative. I also wanted to edit the X-axis to reflect what the percentages are refering to, so I updated it to "Percent of Respondents". I edited the spacing a bit between the legend items and then added padding to the edges of the grpahic. It took a long time to ensure my Y-axis labels were all visible (not overlapping) and the graphic's text colors were matching. After all of this, my final product is below. I can't resize it smaller without the labels getting messed up.
+  <br>
+  </p>
 
 <p align="center">
-<iframe src='https://flo.uri.sh/visualisation/12666858/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12666858/?utm_source=embed&utm_campaign=visualisation/12666858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/12666858/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:90%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12666858/?utm_source=embed&utm_campaign=visualisation/12666858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </p> 
 
