@@ -110,13 +110,13 @@ This was my first round of review. Because of the feedback emphasis on improving
 
 ## Step 5A: Build the Solution
 
-<p>
 After the in-class feedback, I made a rough version of a scatterplot out of the data in Flourish.
-  <br>
+
 <p align="center">
 <img width="600" height="450" src="https://user-images.githubusercontent.com/123282392/217152901-997ee132-e740-4353-bc4a-4074642d11b6.png">
   </p>
-<br>
+<p>
+  <br>
   <br>
 Despite this being the very first rough draft, I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefore horizontal, I had an awkwadly long Y-axis title as well. At this point, I decided to scrap the scatterplot altogether and try a new visualization type before getting more peer feedback.
 <br>
@@ -126,15 +126,17 @@ Despite this being the very first rough draft, I was ultimately disappointed wit
 
 <p>
 After being disappointed in the drama that the scatterplot was lacking, I decided to click through some of the visualization templates that both Tableau and Flourish have to offer. One in particular caught my eye: Flourish's the connected dot plot.
-<br>
+  <br>
   <br>
 I liked this visualization for a few reasons. I could eliminate having two axes with the same units, as I was not satisfied with this even back in the sketching phase of the scatterplot design. I liked that the template data was utilizing color to tell the story of changes over time (one color for each time period), and I figured I could use the same strategy with my changes between survey responses. I liked that the line element allows the difference in the two data points per country to be emphasized, rather than their base values. I also liked that I could have the country labels easily listed along the side instead of floating next to scatterplot points, and that they were angled horizontally so they could be more readable (compared to vertical or angled labels).
-<br>
+  <br>
   <br>
 After reformatting the data in Excel to suit this visualization type, I ended up with this:
+  </p>
+  
 <p align="center">
   <img width="600" height="450" src="https://user-images.githubusercontent.com/123282392/217152675-884348c9-febd-4c56-b84b-dc062abcfbc2.png">
-<br>
+  <br>
   <br>
 </p>
 
