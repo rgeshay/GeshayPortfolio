@@ -165,9 +165,16 @@ After this feedback session, I knew what I had tp do. The title needed to be cha
 
 ## Step 5C: Building Yet Another Solution
 
-I changed the color scheme to show a more dramatic contrast. I initially wanted to use green in the color scheme because the topic is environmental, but I was concerned about this graphic looking too confusing for colorblind audiences. So instead I leaned into using blue in the graphic, and yellow to contrast with it.
-  
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12666858"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<p>
+  This is my new and improved design, which will go through one more round of peer review.
+  <br>
+  <br>
+  I changed the color scheme to show a more dramatic contrast. I initially used green in my color scheme because the topic is environmental, but using a contrasting color with green means using red. I was concerned about this graphic looking too confusing for colorblind audiences, so instead I leaned into using blue in the graphic, and then yellow to contrast with that. I think the look is more polished and professional. I kept blue as the more dominant color (for both dots and the lines themselves) because it's less straining/distracting than having too much yellow. I tried to make the lines yelow and it caused my physical pain.
+  <br>
+  <br>
+  I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. 
 
   
 
