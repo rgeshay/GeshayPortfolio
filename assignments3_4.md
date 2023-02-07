@@ -182,7 +182,7 @@ I met with Maggie Harger, a student in the other section of this Spring '23 Tell
   <br>
   <br>
   </p>
-  *...Whoops.*
+  ...Whoops.
   
 <p>
   <br>
