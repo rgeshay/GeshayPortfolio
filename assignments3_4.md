@@ -68,31 +68,46 @@ After the previous two sketches, I considered using a map to tell my data story.
 
 
 **Step 4A: Test the Solution**
-\
-Of these 3 sketches I prefered the scatterplot concept the most. This is what I then displayed to my fellow students during an in-class discussion. From this exchange, the group consensus was:
 
-  1)  I need to add a date to aid context
-  2)  Put source in the footer (don't forget!)
-  3)  My Sketches 1 & 2 were easy to understand
-  4)  I need to narrow down who exactly my audience is - is simplicity the driving factor in my design, or telling a compelling story? Are they mutually exclusive?
+<p>
+Of these 3 sketches I prefered the scatterplot concept the most. This is what I then displayed to my fellow students during an in-class discussion. From this exchange, the group consensus was:
+<br>
+  <br>
+  1)  I need to add a date to aid context <br>
+  2)  Put source in the footer (don't forget!) <br>
+  3)  My Sketches 1 & 2 were easy to understand <br>
+  4)  I need to narrow down who exactly my audience is - is simplicity the driving factor in my design, or telling a compelling story? Are they mutually exclusive? <br>
   5)  I need to clarify my narrative - what makes this a story worth telling? (This tells me that my title isn't narrative enough)
-\
+<br>
+  <br>
 This was my first round of review. From here, I decided to try refining a scatterplot.
-\
+</p>
+
 **Step 5A: Build the Solution**
-\
+
+<p>
 After the in-class feedback, I made a rough version of a scatterplot out of the data in Flourish.
-\
-\
-I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. At this point I decided to try a new visualization altogether before getting more peer feedback.
-\
-\
+  <br>
+<p align="center">
+<img width="600" height="450" src="https://user-images.githubusercontent.com/123282392/217152901-997ee132-e740-4353-bc4a-4074642d11b6.png">
+  </p>
+<br>
+  <br>
+I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefor ehorizontal, I had an awkwadly long Y-axis title as well. At this point, I decided to scrap the scatterlot altogether and try a new visualization type before getting more peer feedback.
+<br>
+</p>
+
 **Step 4B: Test the Solution (Again)**
-\
+
+<p>
 After being disappointed in the _drama_ that the scatterplot was lacking, I decided to click through some of the visualization templates that both Tableau and Flourish have to offer. One in particular caught my eye: the connected dot plot.
-\
+<br>
+  <br>
 I liked this visualization for a few reasons. I could eliminate having two axes with the same units, as I was not satisfied with this even back in the sketching phase of this redesign. I liked that the template data was utilizing color to tell the story of changes over time, and I figured I could do similarly with my changes between survey responses. I also liked that I could have the country labels easily listed along the side instead of floating next to scatterplot points, and that they were angled horizontally so they could be more readable (compared to vertical or angled labels).
-\
+<br>
+  <br>
 After reformatting the data in Excel to suit this visualization type, I ended up with this:
-![image](https://user-images.githubusercontent.com/123282392/217152675-884348c9-febd-4c56-b84b-dc062abcfbc2.png)
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/123282392/217152675-884348c9-febd-4c56-b84b-dc062abcfbc2.png">
+  </p>
 
