@@ -210,7 +210,7 @@ For my next peer level review, I was much more excited to showcase my data visua
 
 ## Step 5D: Build Last Solution
 <p>
-After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I plan to remove that while also making the title more specific/informative. I also wanted to edit the X-axis to reflect what the percentages are refering to, so I updated it to "Percent of Respondents". I edited the spacing a bit between the legend items and then added padding to the edges of the grpahic. It took a long time to ensure my Y-axis labels were all visible (not overlapping) and the graphic's text colors were matching. After all of this, my final product is below. I can't resize it smaller without the labels getting messed up.
+After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I plan to remove that while also making the title more specific/informative. I also wanted to edit the X-axis to reflect what the percentages are refering to, so I updated it to "Percent of Respondents". I edited the spacing a bit between the legend items and then added padding to the edges of the grpahic. It took a long time to ensure my Y-axis labels were all visible (not overlapping) and the graphic's text colors were matching. After all of this, my final product is below.
   <br>
   </p>
 
