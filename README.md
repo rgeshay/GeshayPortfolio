@@ -1,9 +1,8 @@
 # Rachel Geshay's Portfolio
 Public portfolio for Telling Stories w Data class at CMU
 \
-[Click here](https://rgeshay.github.io/GeshayPortfolio/) to access my site
+[Click here](https://rgeshay.github.io/GeshayPortfolio/) to access my site's homepage.
 \
-It's also just this URL: https://rgeshay.github.io/GeshayPortfolio/
 
 ## About Me
 Rachel Geshay
