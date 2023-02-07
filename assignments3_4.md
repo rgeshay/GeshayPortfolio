@@ -129,28 +129,28 @@ Now that I had a digitized visualization that I was halfway happy with, I was fi
 I met with Maggie Harger, a student in the other section of this Spring '23 Telling Stories with Data class. I showed her my above connected dot plot. After I gave no context and let her study the map, our subsequent conversation went something like this:
   <br>
   <br>
+  </p>
  
-*Can you understand the story the graphic is trying to tell?*
+ <p>
+  
+  *Can you understand the story the graphic is trying to tell?*
   <br>
   No, not at all.
+  
+  *Why?*
   <br>
-  <br>
-*Why?*
-  <br>
-  The colors are too similar, it's difficult for the distinct data points to stand out for each country. I also think the title and subtitle are saying the same thing, so they're redundant.
-  <br>
-  <br>
-*That's a good point. I'll workshop the title more since that's also what people said during the in-class feedback session.*
+    The colors are too similar, it's difficult for the distinct data points to stand out for each country. I also think the title and subtitle are saying the same thing, so they're redundant.
+
+  *That's a good point. I'll workshop the title more since that's also what people said during the in-class feedback session.*
   <br>
   Yeah, the title is confusing. I still don't really understand _why_ I'm looking at this graphic. The main takeaway should be clearer, and in the title.
-  <br>
-  <br>
-*So the story behind this data is that even though people are skeptical about climate change, that's not enough to deter them from pursuing climate policy. So what's happening is countries are legislating more proactively instead of reactively.*
+  
+  *So the story behind this data is that even though people are skeptical about climate change, that's not enough to deter them from pursuing climate policy. So what's happening is countries are legislating more proactively instead of reactively.*
   <br>
   Oh, I see... Yeah, that wasn't clear. So these data points on the far right are a good thing, and it's shocking that the lines themselves are so long?
   <br>
-  
-*Exactly.*
+  <br>
+  *Exactly.*
   <br>
   I see. Yeah, that wasn't clear. The data also isn't ordered at all, is it?
   <br>
