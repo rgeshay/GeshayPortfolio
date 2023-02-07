@@ -130,25 +130,24 @@ I met with Maggie Harger, a student in the other section of this Spring '23 Tell
   <br>
   <br>
  
-_Can you understand the story the graphic is trying to tell?_
+*Can you understand the story the graphic is trying to tell?*
   <br>
   No, not at all.
   <br>
   <br>
-_Why?_
+*Why?*
   <br>
   The colors are too similar, it's difficult for the distinct data points to stand out for each country. I also think the title and subtitle are saying the same thing, so they're redundant.
   <br>
   <br>
-_That's a good point. I'll workshop the title more since that's also what people said during the in-class feedback session._
+*That's a good point. I'll workshop the title more since that's also what people said during the in-class feedback session.*
   <br>
   Yeah, the title is confusing. I still don't really understand _why_ I'm looking at this graphic. The main takeaway should be clearer, and in the title.
   <br>
   <br>
-_So the story behind this data is that even though people are skeptical about climate change, that's not enough to deter them from pursuing climate policy. So what's happening is countries are legislating more proactively instead of reactively._
+*So the story behind this data is that even though people are skeptical about climate change, that's not enough to deter them from pursuing climate policy. So what's happening is countries are legislating more proactively instead of reactively.*
   <br>
   Oh, I see... Yeah, that wasn't clear. So these data points on the far right are a good thing, and it's shocking that the lines themselves are so long?
-  <br>
   <br>
   
 *Exactly.*
@@ -162,19 +161,20 @@ _So the story behind this data is that even though people are skeptical about cl
   <br>
   <br>
   
-After this feedback session, I knew what I had tp do. The title needed to be changed to reflect the narrative story I was trying to tell. My colors needed to support this narrative, not distract from it. I also needed to sort my data, eiher by line length, alphabetically, or by further right data point.
+After this feedback session, I knew what I had to do. The title needed to be changed to reflect the narrative story I was trying to tell. My colors needed to support this narrative, not distract from it. I also needed to sort my data, eiher by line length, alphabetically, or by further right data point.
+<br>
 </p>
 
 ## Step 5C: Building Yet Another Solution
 
 <p>
-  This is my new and improved design, which will go through one more round of peer review.
+  For my new and improved design, I made several big changes.
   <br>
   <br>
   I changed the color scheme to show a more dramatic contrast. I initially used green in my color scheme because the data is thematically environmental, but I have two data points for each country which necessitate color distinctions. Using a contrasting color with green means using red. I was concerned about this graphic looking too confusing for colorblind audiences, so instead I leaned into using blue in the graphic, and then yellow to contrast with that. I think the look is more polished and professional. I kept blue as the more dominant color (for both dots and the lines themselves) because it's less straining/distracting than having too much yellow. I tried to make the lines yellow and it caused me physical pain.
   <br>
   <br>
-  I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. This might be creating too much negative space, so I'll ask my next peer previewer about that. Regarding the Y-axis, I removed the redundant label "Country" that Maggie and I both missed on our initial reviews. I then edited all the text to make it darkers and thus more readable, and increased the Y-axis font size.
+  I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. This might be creating too much negative space, so I'll ask my next peer reviewer about that. Regarding the Y-axis, I removed the redundant label "Country" that Maggie and I both missed on our initial reviews. I then edited all the text to make it darker and thus more readable, and increased the Y-axis font size.
   <br>
   <br>
   I also changed the title, but kept the subtitle. I feel conflicted about removing the subtitle, since I want to add in the context of the percentages corresponding to survey metrics within individual countries. This information might not be necessary for the audience though, so perhaps I am holding onto this for no reason. I also forgot to add a source link at the bottom, so I'll have to amend that for my final version.
