@@ -188,6 +188,7 @@ I met with Maggie Harger, a student in the other section of this Spring '23 Tell
 After this feedback session, I knew what I had to do. The title needed to be changed to reflect the narrative story I was trying to tell. My colors needed to support this narrative, not distract from it. I also needed to sort my data somehow.
 <br>
 </p>
+</p>
 
 ## Step 5C: Building Yet Another Solution
 
