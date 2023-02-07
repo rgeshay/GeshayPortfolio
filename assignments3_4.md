@@ -33,6 +33,8 @@ Using Stephen Few's [Data Visualization Effectiveness Profile](http://www.percep
 
 After considering the changes that need to be prioritized (improve readability, choose visualization tool tha is not a vertical bar chart, color scheme), I then brainstormed different ways to display this data.
 
+<p>
+
 <p align="center">
   Sketch 1: Horizontal Bar Chart
   </p>
@@ -43,8 +45,11 @@ After considering the changes that need to be prioritized (improve readability, 
 
 I first considered simply rotating the bar chart and sorting the data by size. This visualization solves the issue of the original visualization not fitting on the screen at the same time and improves readability. I also reduced the concept down to a single color to emphasize supporting climate legislation more than climate skepticism. However, this graph did not feel creative enough to me. I wanted to better emphasize the disparity between each country's percentages to make the story more impactful. I want to convey that even though people are skeptical about climate change, they still support climate legislation. The bar graph doesn't make this visually dramatic enough, so I sketched out my next idea.
 
+<br>
+</p>
 
 
+<p>
 <p align="center">
   Sketch 2: Scatterplot
   </p>
@@ -55,9 +60,12 @@ I first considered simply rotating the bar chart and sorting the data by size. T
 
 I next considered using a scatterplot. The visual trend in the data is more easy to see with this type of visualization, which I like. Unfortunately, I think it's inefficient to have two axes with the same units (e.g. percentage). This method also requires labeling every data point, which is too cluttered for my taste. Finally, I didn't know how to introduce color to this visualization in a way that adds significant meaning or interpretation to the data. This visualization does not look bad, but it's not as strong as I want it to be. Thus...
 
+<br>
+</p>
 
+<p>
 <p align="center">
-  Sketch 3:
+  Sketch 3: Map (With Imaginary Data Overlaid)
   </p>
 
 <p align="center">
@@ -65,6 +73,9 @@ I next considered using a scatterplot. The visual trend in the data is more easy
   </p>
 
 After the previous two sketches, I considered using a map to tell my data story. I was excited to try this because I know Tableau has robust visualizations utilizing maps. Sadly, I could not find the dataset itself that has 37 data points, which I think would be more effective on a global map than the 15 data points I gleaned directly from the original visualization. I was also worried about how I would input the data itself onto the map - so much so that I didn't even add it to the map I traced. I considered 3D bar graphs (too complicated), ratios of one percentage to another (too hard to conceptualize for the audience), and just reporting the percentages over their gived countries (too simple, not strategic).
+<br>
+<br>
+</p>
 
 
 **Step 4A: Test the Solution**
@@ -80,7 +91,9 @@ Of these 3 sketches I prefered the scatterplot concept the most. This is what I 
   5)  I need to clarify my narrative - what makes this a story worth telling? (This tells me that my title isn't narrative enough)
 <br>
   <br>
-This was my first round of review. From here, I decided to try refining a scatterplot.
+This was my first round of review. Because of the feedback emphasis on improving understandability, I decided to try refining a scatterplot. This was a cleaner solution that a bar chart, and more practical than overlaying data on top of a world map.
+<br>
+  <br>
 </p>
 
 **Step 5A: Build the Solution**
@@ -93,7 +106,7 @@ After the in-class feedback, I made a rough version of a scatterplot out of the 
   </p>
 <br>
   <br>
-I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefor ehorizontal, I had an awkwadly long Y-axis title as well. At this point, I decided to scrap the scatterlot altogether and try a new visualization type before getting more peer feedback.
+Despite this being the very first rough draft, I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefor ehorizontal, I had an awkwadly long Y-axis title as well. At this point, I decided to scrap the scatterlot altogether and try a new visualization type before getting more peer feedback.
 <br>
 </p>
 
