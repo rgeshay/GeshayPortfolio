@@ -21,6 +21,7 @@ The below chart is from the Pew Research Center. It details climate change opini
 <p align="center">
 <a href="https://www.pewresearch.org/global/2015/11/05/2-public-support-for-action-on-climate-change/climate-change-report-41/"><img src="https://www.pewresearch.org/global/wp-content/uploads/sites/2/2015/11/Climate-Change-Report-41.png?w=309"></a>
   </p>
+  </p>
 
 ## Step 2: Critique the Data Visualization
 
