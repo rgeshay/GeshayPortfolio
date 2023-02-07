@@ -1,19 +1,15 @@
 # Assignment 3&4: Critique By Design
-\
-**Step 1: Find a data visualization you can improve**
-\
-\
+
+## Step 1: Find a data visualization you can improve
+
 The below chart is from the Pew Research Center. It details climate change opinions at the national scale. At first glance, a few issues are immediately obvious to me: the title isn't informattive/narrative enough, the data does not look to be organized in any particular way, and the colors are dull. Though this visualization is not terrible, it can definitely be improved.
 
 <p align="center">
 <a href="https://www.pewresearch.org/global/2015/11/05/2-public-support-for-action-on-climate-change/climate-change-report-41/"><img src="https://www.pewresearch.org/global/wp-content/uploads/sites/2/2015/11/Climate-Change-Report-41.png?w=309"></a>
   </p>
 
-\
-\
-**Step 2: Critique the Data Visualization**
-\
-\
+## Step 2: Critique the Data Visualization
+
 Using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) as a guideline, the next step in this critique involves focusing on specific visualization aspects and identifying areas of improvement. The following survey demonstrates this analytical process.
 
 
@@ -29,7 +25,7 @@ Using Stephen Few's [Data Visualization Effectiveness Profile](http://www.percep
 <img src="https://user-images.githubusercontent.com/123282392/217146198-08108899-285d-4e5e-9b20-05a34a247efc.png">
   </p>
 
-**Step 3: Sketch Out a Solution**
+## Step 3: Sketch Out a Solution
 
 After considering the changes that need to be prioritized (improve readability, choose visualization tool tha is not a vertical bar chart, color scheme), I then brainstormed different ways to display this data.
 
@@ -78,7 +74,7 @@ After the previous two sketches, I considered using a map to tell my data story.
 </p>
 
 
-**Step 4A: Test the Solution**
+## Step 4A: Test the Solution
 
 <p>
 Of these 3 sketches I prefered the scatterplot concept the most. This is what I then displayed to my fellow students during an in-class discussion. From this exchange, the group consensus was:
@@ -96,7 +92,7 @@ This was my first round of review. Because of the feedback emphasis on improving
   <br>
 </p>
 
-**Step 5A: Build the Solution**
+## Step 5A: Build the Solution
 
 <p>
 After the in-class feedback, I made a rough version of a scatterplot out of the data in Flourish.
@@ -110,17 +106,68 @@ Despite this being the very first rough draft, I was ultimately disappointed wit
 <br>
 </p>
 
-**Step 4B: Test the Solution (Again)**
+## Steps 4B & 5B: Build a New Solution, Then Test That Instead
 
 <p>
 After being disappointed in the _drama_ that the scatterplot was lacking, I decided to click through some of the visualization templates that both Tableau and Flourish have to offer. One in particular caught my eye: the connected dot plot.
 <br>
   <br>
-I liked this visualization for a few reasons. I could eliminate having two axes with the same units, as I was not satisfied with this even back in the sketching phase of this redesign. I liked that the template data was utilizing color to tell the story of changes over time, and I figured I could do similarly with my changes between survey responses. I also liked that I could have the country labels easily listed along the side instead of floating next to scatterplot points, and that they were angled horizontally so they could be more readable (compared to vertical or angled labels).
+I liked this visualization for a few reasons. I could eliminate having two axes with the same units, as I was not satisfied with this even back in the sketching phase of the scatterplot design. I liked that the template data was utilizing color to tell the story of changes over time (one color for each time period), and I figured I could use the same strategy with my changes between survey responses. I also liked that I could have the country labels easily listed along the side instead of floating next to scatterplot points, and that they were angled horizontally so they could be more readable (compared to vertical or angled labels).
 <br>
   <br>
 After reformatting the data in Excel to suit this visualization type, I ended up with this:
 <p align="center">
   <img width="600" height="450" src="https://user-images.githubusercontent.com/123282392/217152675-884348c9-febd-4c56-b84b-dc062abcfbc2.png">
-  </p>
+<br>
+  <br>
+</p>
+
+<p>
+Now that I had a digitized visualization that I was halfway happy with, I was finally able to engage in the one-on-one peer review step of this assignment.
+  <br>
+  <br>
+I met with Maggie Harger, a student in the other section of this Spring '23 Telling Stories with Data class. I showed her my above connected dot plot. After she studied the map, given zero context she had the following to say:
+  <br>
+  <br>
+ 
+_Can you understand the story the graphic is trying to tell?_
+  <br>
+  No, not at all.
+  <br>
+  <br>
+_Why?_
+  <br>
+  The colors are too similar, it's difficult for the distinct data points to stand out for each country. I also think the title and subtitle are saying the same thing, so they're redundant.
+  <br>
+  <br>
+_That's a good point. I'll workshop the title more since that's also what people said during the in-class feedback session._
+  <br>
+  Yeah, the title is confusing. I still don't really understand _why_ I'm looking at this graphic. The main takeaway should be clearer, and in the title.
+  <br>
+  <br>
+_So the story behind this data is that even though people are skeptical about climate change, that's not enough to deter them from pursuing climate policy. So what's happening is countries are legislating more proactively instead of reactively._
+  <br>
+  Oh, I see... Yeah, that wasn't clear. So these data points on the far right are a good thing, and it's shocking that the lines themselves are so long?
+  <br>
+  <br>
+_Exactly._
+  <br>
+  I see. Yeah, that wasn't clear. The data also isn't ordered at all, is it?
+  <br>
+  <br>
+_...Whoops._
+  <br>
+  <br>
+  <br>
+  
+After this feedback session, I knew what I had tp do. The title needed to be changed to reflect the narrative story I was trying to tell. My colors needed to support this narrative, not distract from it. I also needed to sort my data, eiher by line length, alphabetically, or by further right data point.
+</p>
+
+## Step 5C: Building Yet Another Solution
+
+I changed the color scheme to show a more dramatic contrast. I initially wanted to use green in the color scheme because the topic is environmental, but I was concerned about this graphic looking too confusing for colorblind audiences. So instead I leaned into using blue in the graphic, and yellow to contrast with it.
+  
+
+
+  
 
