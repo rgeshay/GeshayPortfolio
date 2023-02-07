@@ -1,5 +1,9 @@
 # Assignment 3&4: Critique By Design
 
+## Summary
+
+This assignment focuses on evaluating and improving an existing data visualization from the Pew Research Center. The overall redesign process includes analyzing the current data visualization, evaluating what is and is not successful, brainstorming different graphical representations, and then alternating between redesign and peer review. The final visualization represents the culmination of this process. The original Pew Research Center visualization was chosen because it lacked sophisticated design, the trends in the data was not clear, and because its story was compelling despite its visual appearance. Understanding that despite climate skepticism, climate policy is desired across the globe is very interesting and almost counterintuitive. By having the data reflect this surprising finding in a more polished, dramatic way, the story can be more clearly understood. The data is composed of response metrics from national surveys, one topic of which was climate change.
+
 ## Step 1: Find a data visualization you can improve
 
 <p>
