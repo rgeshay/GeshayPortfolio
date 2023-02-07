@@ -92,3 +92,7 @@ I was ultimately disappointed with this design. My initial hangups in the sketch
 After being disappointed in the _drama_ that the scatterplot was lacking, I decided to click through some of the visualization templates that both Tableau and Flourish have to offer. One in particular caught my eye: the connected dot plot.
 \
 I liked this visualization for a few reasons. I could eliminate having two axes with the same units, as I was not satisfied with this even back in the sketching phase of this redesign. I liked that the template data was utilizing color to tell the story of changes over time, and I figured I could do similarly with my changes between survey responses. I also liked that I could have the country labels easily listed along the side instead of floating next to scatterplot points, and that they were angled horizontally so they could be more readable (compared to vertical or angled labels).
+\
+After reformatting the data in Excel to suit this visualization type, I ended up with this:
+![image](https://user-images.githubusercontent.com/123282392/217152675-884348c9-febd-4c56-b84b-dc062abcfbc2.png)
+
