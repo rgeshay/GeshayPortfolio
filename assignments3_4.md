@@ -126,7 +126,7 @@ After reformatting the data in Excel to suit this visualization type, I ended up
 Now that I had a digitized visualization that I was halfway happy with, I was finally able to engage in the one-on-one peer review step of this assignment.
   <br>
   <br>
-I met with Maggie Harger, a student in the other section of this Spring '23 Telling Stories with Data class. I showed her my above connected dot plot. After she studied the map, given zero context she had the following to say:
+I met with Maggie Harger, a student in the other section of this Spring '23 Telling Stories with Data class. I showed her my above connected dot plot. After I gave no context and let her study the map, our subsequent conversation went something like this:
   <br>
   <br>
  
@@ -150,12 +150,14 @@ _So the story behind this data is that even though people are skeptical about cl
   Oh, I see... Yeah, that wasn't clear. So these data points on the far right are a good thing, and it's shocking that the lines themselves are so long?
   <br>
   <br>
-_Exactly._
+  
+*Exactly.*
   <br>
   I see. Yeah, that wasn't clear. The data also isn't ordered at all, is it?
   <br>
-  <br>
-_...Whoops._
+  
+*...Whoops.*
+  
   <br>
   <br>
   <br>
@@ -165,23 +167,47 @@ After this feedback session, I knew what I had tp do. The title needed to be cha
 
 ## Step 5C: Building Yet Another Solution
 
-<iframe src='https://flo.uri.sh/visualisation/12666858/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12666858/?utm_source=embed&utm_campaign=visualisation/12666858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
 <p>
   This is my new and improved design, which will go through one more round of peer review.
   <br>
   <br>
-  I changed the color scheme to show a more dramatic contrast. I initially used green in my color scheme because the topic is environmental, but using a contrasting color with green means using red. I was concerned about this graphic looking too confusing for colorblind audiences, so instead I leaned into using blue in the graphic, and then yellow to contrast with that. I think the look is more polished and professional. I kept blue as the more dominant color (for both dots and the lines themselves) because it's less straining/distracting than having too much yellow. I tried to make the lines yelow and it caused my physical pain.
+  I changed the color scheme to show a more dramatic contrast. I initially used green in my color scheme because the data is thematically environmental, but I have two data points for each country which necessitate color distinctions. Using a contrasting color with green means using red. I was concerned about this graphic looking too confusing for colorblind audiences, so instead I leaned into using blue in the graphic, and then yellow to contrast with that. I think the look is more polished and professional. I kept blue as the more dominant color (for both dots and the lines themselves) because it's less straining/distracting than having too much yellow. I tried to make the lines yellow and it caused me physical pain.
   <br>
   <br>
   I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. This might be creating too much negative space, so I'll ask my next peer previewer about that. Regarding the Y-axis, I removed the redundant label "Country" that Maggie and I both missed on our initial reviews. I then edited all the text to make it darkers and thus more readable, and increased the Y-axis font size.
   <br>
   <br>
-  I also changed the title, but kept the subtitle. I feel conflicted about removing the subtitle, since I want to add int he context of the percentages corresponding to survey metrics within individual countries. This information might not be necessary for the audience though, so perhaps I am holding onto this for no reason. I also forgot to add a source link at the bottom, so I'll have to amend that for my final version.
+  I also changed the title, but kept the subtitle. I feel conflicted about removing the subtitle, since I want to add in the context of the percentages corresponding to survey metrics within individual countries. This information might not be necessary for the audience though, so perhaps I am holding onto this for no reason. I also forgot to add a source link at the bottom, so I'll have to amend that for my final version.
   <br>
   </p>
 
-## Step 4D: Test the Solution (featuring soandso)
+## Step 4D: Test the Solution (featuring Aishwarya)
 
+<p>
+For my next peer level review, I was much more excited to showcase my data visualization. For this review level, I prepared some questions beforehand that I knew I wanted answered:
+<br>
+  <br>
   
+  *When you looked at this visualization, what elements did you look at first?*
+  <br>
+  My eyes first went to the lines in the visualization themselves since they're clustered in the middle. I then looked at the X-axis to see what the dots represented, and then finally looked a the title for context
+  <br>
+  <br>
+  
+  *What do you think is the purpose of this graphic?*
+  <br>
+  I actually wasn't really sure about that at first. I think the most meaning is in the legend, but the title and subtitle are a little... confusing? [When I gave her more context, she said] Oh, that makes a lot more sense. Ok, now I understand this graph. I like the style with the dots and the lines, so I don't think that's why I was confused. I think the title can frame the issue better or give more context for the data. 
+  <br>
+  <br>
+  
+  *What do you like about the visualization?*
+  <br>
+  I like the colors, they're very clear. I also like that this isn't some boring bar chart or something. [I then showed her the original visualization, and she said] Yeah, yours is *much* better.
+  <br>
+  <br>
+  <br>
+  </p>
+After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I plan to remove that while also making the title more specific/informative. I also wanted to edit the X-axis to reflect what the percentages are refering to, so I updated it to "Percent of Respondents". I edited the spacing a bit, made sure that my labels were visible enough and the text colors were matching. After all of this, my final product is below.
+
+<iframe src='https://flo.uri.sh/visualisation/12666858/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:80%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12666858/?utm_source=embed&utm_campaign=visualisation/12666858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
