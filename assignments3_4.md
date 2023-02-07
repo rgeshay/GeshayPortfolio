@@ -181,8 +181,10 @@ I met with Maggie Harger, a student in the other section of this Spring '23 Tell
   Maggie: I see. Yeah, that wasn't clear. The data also isn't ordered at all, is it?
   <br>
   <br>
+  </p>
   *...Whoops.*
   
+<p>
   <br>
   <br>
   <br>
