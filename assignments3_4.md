@@ -106,7 +106,7 @@ Despite this being the very first rough draft, I was ultimately disappointed wit
 <br>
 </p>
 
-## Steps 4B & 5B: Build a New Solution, Then Test That Instead
+## Steps 4B & 5B: Build a New Solution, Then Test That Instead (featuring Maggie)
 
 <p>
 After being disappointed in the _drama_ that the scatterplot was lacking, I decided to click through some of the visualization templates that both Tableau and Flourish have to offer. One in particular caught my eye: the connected dot plot.
@@ -174,7 +174,14 @@ After this feedback session, I knew what I had tp do. The title needed to be cha
   I changed the color scheme to show a more dramatic contrast. I initially used green in my color scheme because the topic is environmental, but using a contrasting color with green means using red. I was concerned about this graphic looking too confusing for colorblind audiences, so instead I leaned into using blue in the graphic, and then yellow to contrast with that. I think the look is more polished and professional. I kept blue as the more dominant color (for both dots and the lines themselves) because it's less straining/distracting than having too much yellow. I tried to make the lines yelow and it caused my physical pain.
   <br>
   <br>
-  I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. 
+  I also increased the X-axis range to 0-100%, since I think this will reduce confusion for the average viewer, who is used to percentages having a maximum of 100. This might be creating too much negative space, so I'll ask my next peer previewer about that. Regarding the Y-axis, I removed the redundant label "Country" that Maggie and I both missed on our initial reviews. I then edited all the text to make it darkers and thus more readable, and increased the Y-axis font size.
+  <br>
+  <br>
+  I also changed the title, but kept the subtitle. I feel conflicted about removing the subtitle, since I want to add int he context of the percentages corresponding to survey metrics within individual countries. This information might not be necessary for the audience though, so perhaps I am holding onto this for no reason. I also forgot to add a source link at the bottom, so I'll have to amend that for my final version.
+  <br>
+  </p>
+
+## Step 4D: Test the Solution (featuring soandso)
 
   
 
