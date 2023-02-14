@@ -11,7 +11,8 @@ In this project, I will analyze available data and statistics to tell the story 
 
 Part 1: Climate Change will Increase Mortality Across the World
   -  Will visualize this statistic from [the V20 article](https://www.v-20.org/new-health-data-shows-unabated-climate-change-will-cause-3.4-million-deaths-per-year-by-century-end#:~:text=The%20Health%20Data%20Explorer%20outlines,million%20deaths%20would%20be%20avoided.) on COP27 findings: "Unabated climate change will cause 3.4 million deaths per year by the end of the Century"
-  -  ![image](https://user-images.githubusercontent.com/123282392/218606875-d5c048e1-95aa-4278-a59f-76a44f0cf2f1.png)
+
+![image](https://user-images.githubusercontent.com/123282392/218606875-d5c048e1-95aa-4278-a59f-76a44f0cf2f1.png)
 
 
 Part 2: Focus on Climate Vulnerable Countries
@@ -47,5 +48,11 @@ Part 4: Connecting Gender & Climate Vulnerability
 
 ![image](https://user-images.githubusercontent.com/123282392/218601395-7e835af7-bcc4-4796-b522-f2efb20cd8b1.png)
 
+
 Part 5: Call to Action
   -  What the audience can do to help international organizations supporting women in vulnerable countries (e.g. unwomen, etc)
+
+
+## Method & Medium
+
+I plan to complete this story using Shorthand. After the in-class demonstrating, I find the inclusion of animations (e.g. fade-ins) and photos to be very compelling. I think using these visual techniques will strengthen my data story. Using this method, I can also embed videos from unwomen.org or some similar source that is compelling for the Call to Action section.
