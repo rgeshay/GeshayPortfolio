@@ -27,4 +27,4 @@ I chose a green-red color scheme to match my other highlighting colors. Once we 
 
 Here I want to maintain the global focus, but narrow who is being considered in this global context. By focusing on women specifically, I am able to tell a more compelling narrative than just "the world is on fire and we're all doomed," as this is both terrible an unoriginal. I use [this image](https://www.globalwaters.org/women-water-alliance/women-water-alliance-all-resources) to transition into the topic, pulling focus on women and showing faces to increase my story's emotional appeal.
 
-For this section's visualization, 
+I originally planned for this to be two side-by-side dot plots of men and women mortality rates due to unsafe water and air quality. When converted into dot plots, the data was too difficult to read and not dramatic enough.
