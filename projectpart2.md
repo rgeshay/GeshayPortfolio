@@ -22,3 +22,9 @@ To further establish where my scope will be going, I first want to strengthen th
 <div class="flourish-embed flourish-map" data-src="visualisation/12818790"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I chose a green-red color scheme to match my other highlighting colors. Once we transition away from talking about death and global vulnerabilities, I may switch to a different highlighting color to help shift the tone. I know that this color scheme is not currently color-blind friendly, so I may change it. I also want to follow this graphic with a table or list of the 5 or 10 most climate-vulnerable countries. This will enable me to smoothly focus on issues relating to the global south, which may be the best way to narrow my scope.
+
+## Section 3: Focusing on Women
+
+Here I want to maintain the global focus, but narrow who is being considered in this global context. By focusing on women specifically, I am able to tell a more compelling narrative than just "the world is on fire and we're all doomed," as this is both terrible an unoriginal. I use [this image](https://www.globalwaters.org/women-water-alliance/women-water-alliance-all-resources) to transition into the topic, pulling focus on women and showing faces to increase my story's emotional appeal.
+
+For this section's visualization, 
