@@ -115,7 +115,7 @@ In my interviews, I wanted the conversation to flow organically. I had the revie
 | I think I'll change my scope to focus on the Global South. Thoughts? | Great idea | That really works with the photos you've already chosen | Either that or climate disasters |
 | Final thoughts? | Narrow your scope and do it early |  I really like the overall design and layout | Narrow your scope  |
 
-### Key Takeaways
+### Key Takeaways: Moving Forward
 
 I was pleased that people seemed to like my overall design skills. Some of the graphics need to be tweaked and obviously the text itself needs to be written out in more detail. Everyone agreed that my scope needed to be narrowed and were generally positive in focusing on the Global South. Incorporating this feedback into my own self-analysis, I need to build out my final sections more, include a bibliography and in-text citations, and change some small design details (ex. don't put red and white text over a colorful image, use a transluscent black textbox per Participant 2's unrecorded suggestion). I also need to make sure there aren't any technical difficulties like with my current pie chart set up. The final section that I plan to add on current actions being undertaken will definitely have to be more built out with data vizualizations and pictures, as well as narrative text.
 
