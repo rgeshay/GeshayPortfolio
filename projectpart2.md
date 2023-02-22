@@ -4,6 +4,8 @@ For this phase of the final project, my goal is to create a story wireframe that
 
 ## Detailed Project Outline (aka "Wireframe")
 
+My formatted project outline can be found [here in Shorthand](https://carnegiemellon.shorthandstories.com/women-climate-threats/index.html)
+
 ### Section 1: Visualizing Hook Statistic
 
 From my plan in Part 1, I had planned to hook my audience through the use of a shocking statistic: 3.4 million people will die per year from climate change by 2100 ([Source: V20](https://www.v-20.org/new-health-data-shows-unabated-climate-change-will-cause-3.4-million-deaths-per-year-by-century-end#:~:text=The%20Health%20Data%20Explorer%20outlines,million%20deaths%20would%20be%20avoided.)). This statistic is impactful, but could be further strengthed by visualizing what this actually means in a practical sense. One of the first visualizations we looked at in this class aimed to spatially represent wealth inequality because people have a hard time properly conceptualzing billions of dollars. Considering this, creating a graphic to help put 3.4 million people into perspective becomes necessary.
