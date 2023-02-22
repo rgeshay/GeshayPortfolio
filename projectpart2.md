@@ -99,10 +99,19 @@ The first person I interviewed has visual design experience and an undergraduate
 
 In my interviews, I wanted the conversation to flow organically. I had the reviewers scroll through my storyboad and narrate their thoughts, but I also asked a series of leading questions along the way.
 
-| Questions | Participant 1 |  |  Participant 2  |  Participant 3  |
+| Questions | Participant 1 |  Participant 2  |  Participant 3  |
 | ------------- | ------------- | ------------- | ------------- |
-| Does the main title tell a story  | Yes, I think it's effective  |  It could be more precise, but ti works well with the background image  |  Make it more specific  |
-| Content Cell  | Content Cell  |
+| Does the main title tell a story  | Yes, I think it's effective  |  It could be more precise, but it works well with the background image  |  Make it more specific  |
+| Is the hook statistic effective  | Yes, I like the red  |  Yes, but I don't like the sudden dark background from the light starting image  |  I like it, but the red is really intense. It matches the tone you're going for though  |
+| Is the following bar chart clear? What's missing? | I don't like that it goes from center-aligned to suddenly two columns. You could maybe add a photo of LA to further support your point  |  I think you need to add some text to explain the graph a bit more, but the design works  |  You should only use one highlighting color, not both red and green. I also didn't realize that it was annual deaths, so add that into the graphic somewhere  |
+| Is the map easy to understand? What would make it better?  |  I like the colors a lot, and the title is very good. Maybe make the geography bigger  |  I really like it, the colors work very well. The legend is a little distracting  |  Instead of having the subtitle, make a paragraph or two of text following the graphic to better explain the data  |
+|  How is the scatterplot?  |  The title is too long, and it maybe belongs in a different section | The title confused me, but the colors seem good  |  Fix the title |
+| Is the icon infographic clear?  |  Yes, I like it a a lot. The animation is good  |  Yes!  |  I like it, it's a nice break from the complex graphics |
+|Is the boxplot confusing? I think it is... | It's hard to see a dramatic gender difference  | Consider using a different type of visualization? Also since the gender difference isn't that great, consider using a more general title | I like the concept, but there's too much text at the top and the gender difference isn't big enough |
+| Is my use of pie charts laughable? | No, I think they work because the statistic is very clear. You should incorporate them with the text better though  | I really like the pie charts, but I'd stick to one highlighting color instead of two  |  I'm not ashamed of this sue of pie charts, good job. You should differentiate them more by staggering them left and right |
+| Overall, do you understand the narrative I'm telling? | Yes, but I think it's a bit vague | Yes, I like it a lot | Kind of. I'm not sure what you want me to do with the information you just showed me, so either you need a better conclusion or to change your scope|
+| I think I'll change my scope to focus on the Global South. Thoughts? | Great idea | That really works with the photos you've already chosen | Either that or climate disasters |
+| Final thoughts? | 
 
  the target audience you hope to reach with your story; 
 b. your approach to identifying representative individuals to interview; 
