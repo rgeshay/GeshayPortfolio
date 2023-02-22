@@ -97,6 +97,8 @@ I interviewed three of my peers for feedback on my outline, visuals, and data gr
 
 The first person I interviewed has visual design experience and an undergraduate major in English. These factors make her an effective resource for judging the flow of a narrative through both text and visual design. The second person I interviewed is more technically literate and was better able to dissect the data visuals themselves. The third person participates in online data visualization communities for fun, so I think that his opinion might have been the most valuable for the visualizations themselves, but he may be a bit weak in the other visual design elements of my outline.
 
+### Interviews
+
 In my interviews, I wanted the conversation to flow organically. I had the reviewers scroll through my storyboad and narrate their thoughts, but I also asked a series of leading questions along the way.
 
 | Questions | Participant 1 |  Participant 2  |  Participant 3  |
@@ -111,40 +113,9 @@ In my interviews, I wanted the conversation to flow organically. I had the revie
 | Is my use of pie charts laughable? | No, I think they work because the statistic is very clear. You should incorporate them with the text better though  | I really like the pie charts, but I'd stick to one highlighting color instead of two  |  I'm not ashamed of this sue of pie charts, good job. You should differentiate them more by staggering them left and right |
 | Overall, do you understand the narrative I'm telling? | Yes, but I think it's a bit vague | Yes, I like it a lot | Kind of. I'm not sure what you want me to do with the information you just showed me, so either you need a better conclusion or to change your scope|
 | I think I'll change my scope to focus on the Global South. Thoughts? | Great idea | That really works with the photos you've already chosen | Either that or climate disasters |
-| Final thoughts? | 
+| Final thoughts? | Narrow your scope and do it early |  I really like the overall design and layout | Narrow your scope  |
 
- the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+### Key Takeaways
 
-
-Maggie:
-title slide: Likes starting picture
-red as a highlighting color is good
-doesn't like the diverging into 2 columns, wants it all in one column
-change bar highlight to red to match title
-add photo of LA crowd, aerial shot, LA at night
-add timescale to graphic
-map colors are easy to understand, title is narrative enough; change scaling of map, subtitle is too wordy, convert subtitle into a text paragraph
-scatterplot: easy to understand cuz of colors and title, thinks title could be shorter/more direct
-transition: red text is hard to read, add a transparent filter over the picture so it's easier to read; move scatterplot into next section instead, add narrative textbox to map
-icon infographic: likes it and the animation
-boxplots: make the visualization distinction more obvious, try using a different visualization like a map with highlights for the countries that are above the mean specifically, which could add to a narrative about the global south; the strength of this data is in WHERE the mortality means are geographically
-pie charts: effective
-thinks audience is Western audience that can donate to causes
-main takeaways: narrow scope to either water issues/scarcity, or adjust scope to global south specifically (matches images), narrow scope early on in narrative
-
-Aishwarya:
-title slide - good first impression, better/more informative title (part of why I need to narrow my scope)
-section 2: goes from bright to dark very suddenly, considering keeping title image behind text box, bar chart title is a bit condusing/doesn't add enough context, takes too long to understand its main point, green color is no good, consider highlighting the data better (icon, color, etc.), consider using yellow as a highlighting color or a transluscent textbox
-likes transition slides moving into maps
-map: title and colors make meaning very clear; make legend smaller or map itself bigger
-likes variety of visuals (pics, graphics, etc.)
-scatterplot: title is a little confusing
-transition: words are difficult to read
-likes inforgraphic with icons: very easy to understand, easy to read, good use of highlighting; add more teal space between text and transition image
-boxplots: likes it, thinks the difference between men and women could be more highlighted, amend title to be more general and then verbalize "women have it rough buddy", (hehe thinks the difference isn't big enough to justify grandiose claims of gender disparities, get over yourself)
-pie charts: fix pictures lol, make titles bigger, stick to one highlighting color
+I was pleased that people seemed to like my overall design skills. Some of the graphics need to be tweaked and obviously the text itself needs to be written out in more detail. Everyone agreed that my scope needed to be narrowed and were generally positive in focusing on the Global South. Incorporating this feedback into my own self-analysis, I need to build out my final sections more, include a bibliography and in-text citations, and change some small design details (ex. don't put red and white text over a colorful image, use a transluscent black textbox per Participant 2's unrecorded suggestion). I also need to make sure there aren't any technical difficulties like with my current pie chart set up. The final section that I plan to add on current actions being undertaken will definitely have to be more built out with data vizualizations and pictures, as well as narrative text.
 
