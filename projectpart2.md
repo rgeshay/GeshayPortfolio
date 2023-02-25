@@ -17,7 +17,7 @@ I made the following graphic to combine with the above statistic. It is displaye
 ![image](https://user-images.githubusercontent.com/123282392/220430662-e75aa2e9-c8cf-4689-82c0-cfe52971f63c.png)
 
 
-I chose a bar graph because it most clearly represented 3 numbers. I conaidered using 3 side-by-side circles, but it was less clear than the bars. I used the color green to highlight the climate death statistic instead of one of the city populations because I couldn't decide which one was stronger (the global death stat reaching nearly the size of LA, or over the size of Chicago). I think this was more clear, because the other highlights in this section all have to do with death rates as well.
+I chose a bar graph because it most clearly represented 3 numbers. I considered using 3 side-by-side circles, but it was less clear than the bars. I used the color green to highlight the climate death statistic instead of one of the city populations because I couldn't decide which one was stronger (the global death stat reaching nearly the size of LA, or over the size of Chicago). I think this was more clear, because the other highlights in this section all have to do with death rates as well.
 
 ### Section 2: Adding Global Context
 
