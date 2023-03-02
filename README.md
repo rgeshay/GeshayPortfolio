@@ -28,6 +28,7 @@ My sweet sweet work will go in the following section. Bon appétit.
 ## In-Class Activities
 [American Trust in News Outlets](https://rgeshay.github.io/GeshayPortfolio/week3exercise.html)
 \
+\
 [King County Demo](https://rgeshay.github.io/GeshayPortfolio/kingcountydemo.html)
 
 ## Assignments
