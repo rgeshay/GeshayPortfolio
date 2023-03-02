@@ -18,7 +18,7 @@ Part 1: Climate Change will Increase Mortality Across the World
 Part 2: Focus on Climate Vulnerable Countries
   -  Countries most vulnerable to climate change
   -  Data set uses [Notre Dame GAIN Country Index](https://gain.nd.edu/our-work/country-index/rankings/)
-  -  Will visualize using a world map, using gradations to signal countries with higher indexes. I don't have the colors to show a gradation in my sketch, but it will look something like hte following:
+  -  Will visualize using a world map, using gradations to signal countries with higher indexes. I don't have the colors to show a gradation in my sketch, but it will look something like the following:
 
 ![image](https://user-images.githubusercontent.com/123282392/218606639-a66d410c-2200-429d-a9f6-963213b19769.png)
 
@@ -55,4 +55,4 @@ Part 5: Call to Action
 
 ## Method & Medium
 
-I plan to complete this story using Shorthand. After the in-class demonstrating, I find the inclusion of animations (e.g. fade-ins) and photos to be very compelling. I think using these visual techniques will strengthen my data story. Using this method, I can also embed videos from unwomen.org or some similar source that is compelling for the Call to Action section.
+I plan to complete this story using Shorthand. After the in-class demonstration, I find the inclusion of animations (e.g. fade-ins) and photos to be very compelling. I think using these visual techniques will strengthen my data story. Using this method, I can also embed videos from unwomen.org or some similar source that is compelling for the Call to Action section.
