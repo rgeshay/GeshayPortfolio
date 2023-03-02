@@ -90,7 +90,7 @@ I next considered using a scatterplot. The visual trend in the data is more easy
 After the previous two sketches, I considered using a map to tell my data story. I was excited to try this because I know Tableau has robust visualizations utilizing maps. Sadly, I could not find the dataset itself that has 37 data points, which I think would be more effective on a global map than the 15 data points I gleaned directly from the original visualization. I was also worried about how I would input the data itself onto the map - so much so that I didn't even add it to the map I traced. I considered 3D bar graphs (too complicated), ratios of one percentage to another (too hard to conceptualize for the audience), and just reporting the percentages over their given countries (too simple, not strategic).
 <br>
 <br>
-Of these 3 sketches I prefered the scatterplot concept the most. This is what I then displayed to my fellow students during an in-class discussion.
+Of these 3 sketches I preferred the scatterplot concept the most. This is what I then displayed to my fellow students during an in-class discussion.
 </p>
 
 
@@ -122,7 +122,7 @@ After the in-class feedback, I made a rough version of a scatterplot out of the 
 <p>
   <br>
   <br>
-Despite this being the very first rough draft, I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefore horizontal, I had an awkwadly long Y-axis title as well. At this point, I decided to scrap the scatterplot altogether and try a new visualization type before getting more peer feedback.
+Despite this being the very first rough draft, I was ultimately disappointed with this design. My initial hangups in the sketching stage couldn't be eliminated - using color efficiently, having the points individually labeled, etc. I couldn't stop the labels from overlapping and having the data points clustered at the top of the graphic felt more awkward than dramatic. In order to keep the axis labels readable and therefore horizontal, I had an awkwardly long Y-axis title as well. At this point, I decided to scrap the scatterplot altogether and try a new visualization type before getting more peer feedback.
 <br>
 </p>
 
@@ -247,7 +247,7 @@ For my next peer level review, I was much more excited to showcase my data visua
 ## Step 5D: Build Last Solution
 
 <p>
-After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I removed it per Aishwarya's advice while also making the title more specific/informative. I also followed Aishwarya's recommendation to edit the X-axis to reflect what the percentages are refering to, so it is now "Percent of Respondents". After incorporating Aishwarya's specific recommendations, I then edited the spacing a bit between the legend items and  added padding to the edges of the graphic. It took a long time to ensure my Y-axis labels were all visible (not overlapping) and the graphic's text colors were matching.
+After this conversation, I realized I really needed to rework my title so that it was clearer. I think some of the context was muddied by relying on the subtitle as well, so I removed it per Aishwarya's advice while also making the title more specific/informative. I also followed Aishwarya's recommendation to edit the X-axis to reflect what the percentages are referring to, so it is now "Percent of Respondents". After incorporating Aishwarya's specific recommendations, I then edited the spacing a bit between the legend items and  added padding to the edges of the graphic. It took a long time to ensure my Y-axis labels were all visible (not overlapping) and the graphic's text colors were matching.
   <br>
   <br>
   At the very end of this process, I remembered that both Maggie and Aishwarya had said that the line arrangement was distracting, so I went into Excel to reorganize my data. I had to manually move the data points because the Y-axis is categorical, not continuous. I arranged the countries from least to greatest X-axis value of "Believe Climate Change is a Serious Problem". I then reordered the legend so that the yellow symbology is on the same side of the graphic as the yellow data points. This made a huge difference in how busy the graphic looked. It is now much more polished, and the trend is in the data is much clearer. I hope this supports the narrative that the new title is framing for the audience.
@@ -262,6 +262,6 @@ After this conversation, I realized I really needed to rework my title so that i
 
 <br>
 <br>
-Thank you for following this stream-of-consciousness journey to refine a data visualization. I am excited to convey more interesting stroeis that are supported by visually pleasing data, especially in the climate sphere. So many stories are worth telling!
+Thank you for following this stream-of-consciousness journey to refine a data visualization. I am excited to convey more interesting stories that are supported by visually pleasing data, especially in the climate sphere. So many stories are worth telling!
 </p> 
 
